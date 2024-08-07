@@ -5,7 +5,7 @@
 # 8/14/21 16:53
 #
 
-__author__ = "Benny <benny.think@gmail.com>"
+__author__ = "Nodoid <admin@nodoid.com>"
 
 import functools
 import logging
