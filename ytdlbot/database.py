@@ -5,7 +5,7 @@
 # 12/7/21 16:57
 #
 
-__author__ = "Benny <benny.think@gmail.com>"
+__author__ = "Nodoid <admin@nodoid.com>"
 
 import base64
 import contextlib
