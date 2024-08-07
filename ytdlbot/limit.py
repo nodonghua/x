@@ -5,7 +5,7 @@
 # 8/15/21 18:23
 #
 
-__author__ = "Benny <benny.think@gmail.com>"
+__author__ = "Nodoid <admin@nodoid.com>"
 
 import hashlib
 import logging
